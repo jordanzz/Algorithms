@@ -1,0 +1,34 @@
+Array:
+- Amount_Elements = Amount of elements in an array
+- All_Elements[] = Array consisting of elements
+
+Graph:
+- Amount_Nodes = Amount of nodes in graph
+- Amount_Edges = Amount of edges in graph
+- Start_Node = Starting node of the algorithm
+- Marked_Nodes = Marked nodes of the graph
+- Queue = “queue” from the <queue> library
+- Stack = “stack” from the <stack> library
+- Priority Queue = “priority queue” from the <queue> library
+- Pair = “pair” from the <utility> library
+- Vector = “vector” from the <vector> library
+
+String:
+- Text = a string
+
+Greedy:
+- Total_Change = Amount of change
+- Amount_Type_Coins = Amount of the types of coins
+- Type_Coins[] = Array consisting of the types of coins
+
+Dynamic Programming:
+- Dynamic_Table[][] = The table used for the solution of all subproblems in the algorithm
+- Total_Weight = Amount of weight overall
+- Elements_Prizes[] = The prize of each element
+- Elements_Weights[] = The weight of each element
+- Total_Change = Amount of change
+- Amount_Type_Coins = Amount of the types of coins
+- Type_Coins[] = Array consisting of the types of coins
+
+Sort:
+- swap = "swap" the contents of two objects

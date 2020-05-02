@@ -1,0 +1,36 @@
+Array:
+- Fenwick Tree
+- Kadane
+- Segment Tree
+- Binary Search
+
+Graph:
+- Breadth First Search
+- Depth First Search
+- Dijkstra
+- Bellman-Ford
+- Floyd-Warshall
+
+String:
+- Rabin Karp
+
+Greedy:
+- Coin Problem
+- Knapsack Problem
+- 0-1 Knapsack Problem
+
+Dynamic Programming:
+- Coin Problem
+- Coin Problem 2
+- Knapsack Problem
+- 0-1 Knapsack Problem
+
+Sort:
+- Bubble Sort
+- Insertion Sort
+- Selection Sort
+- Comb Sort
+- Counting Sort
+- Quick Sort
+- Merge Sort
+- Heap Sort

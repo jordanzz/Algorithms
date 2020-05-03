@@ -24,7 +24,9 @@ int Binary_Search(int Searched_Element, int Searched_Array[], int The_Amount_Ele
 	} // no space because next line is END of block of structure...
 }
 start:
-I hope i dont have to explain space and tabs because you have to be very autistic to fuck up those.. Press space between special symbols like calculations and &, between < and > and , its just basic stuff but i still have to say it no matter, since i still see many people not create space bar like wtf man im not supposed to clean your shit. goto start;
+I hope i dont have to explain space and tabs because you have to be very autistic to fuck up those.. Press space between special symbols like 
+calculations and &, between < and > and , its just basic stuff but i still have to say it no matter, since i still see many people not create 
+space bar like wtf man im not supposed to clean your shit. goto start;
 
 #include <iostream>
 // between each one there is space because thats simply how it should be no more due to see 
@@ -32,7 +34,8 @@ using namespace std;
 
 int Amount_Elements, Search_Element, Array[101];
 start:
-Spacing inside blocks should be made between every line and different structure except when it starts and ends like inside like out hehe goto start;
+Spacing inside blocks should be made between every line and different structure except when it starts and ends like inside like out hehe 
+goto start;
 
 
 
@@ -48,4 +51,7 @@ int Calculate_Fenwick_Tree(int i, int Tree[]) {
 	return j; // not one after because its end of function (block of structure)
 }
 start:
-That is basically it for today i will see how muchi will write but do remember it is not that hard to have good code, just try and after some time it will come naturally, like how do you think the people train their cats to poop in the human toilet AND flush like… it doesnt happen overnight, neither will learning how to code properly will. I will see what to write later maybe it will be about naming of variables who knows (well i and you the reader will, because i will write it kind of weird of saying “who knows” at the end of sentences you know but whatever)
+That is basically it for today i will see how muchi will write but do remember it is not that hard to have good code, just try and after some 
+time it will come naturally, like how do you think the people train their cats to poop in the human toilet AND flush like… it doesnt happen 
+overnight, neither will learning how to code properly will. I will see what to write later maybe it will be about naming of variables who 
+knows (well i and you the reader will, because i will write it kind of weird of saying “who knows” at the end of sentences you know but whatever)

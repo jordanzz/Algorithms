@@ -54,4 +54,5 @@ start:
 That is basically it for today i will see how muchi will write but do remember it is not that hard to have good code, just try and after some 
 time it will come naturally, like how do you think the people train their cats to poop in the human toilet AND flush like… it doesnt happen 
 overnight, neither will learning how to code properly will. I will see what to write later maybe it will be about naming of variables who 
-knows (well i and you the reader will, because i will write it kind of weird of saying “who knows” at the end of sentences you know but whatever)
+knows (well i and you the reader will, because i will write it kind of weird of saying “who knows” at the end of sentences you know but 
+whatever)

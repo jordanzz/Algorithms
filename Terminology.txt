@@ -7,11 +7,11 @@ Graph:
 - Amount_Edges = Amount of edges in graph
 - Start_Node = Starting node of the algorithm
 - Marked_Nodes = Marked nodes of the graph
-- Queue = ìqueueî from the <queue> library
-- Stack = ìstackî from the <stack> library
-- Priority Queue = ìpriority queueî from the <queue> library
-- Pair = ìpairî from the <utility> library
-- Vector = ìvectorî from the <vector> library
+- Queue = ‚Äúqueue‚Äù from the <queue> library
+- Stack = ‚Äústack‚Äù from the <stack> library
+- Priority Queue = ‚Äúpriority queue‚Äù from the <queue> library
+- Pair = ‚Äúpair‚Äù from the <utility> library
+- Vector = ‚Äúvector‚Äù from the <vector> library
 
 String:
 - Text = a string
@@ -32,7 +32,3 @@ Dynamic Programming:
 
 Sort:
 - swap = "swap" the contents of two objects
-
-2 big ducks
-
-and a black nigga
